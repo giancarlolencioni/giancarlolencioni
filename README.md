@@ -1,6 +1,6 @@
-# Olá, me chamo Giancarlo Lencioni de Castro 👋
+# Olá, me chamo Giancarlo Lencioni de Castro.
 
-## Sou analista de dados iniciante com conhecimentos em tecnologias essencias como Excel, SQL e Power Bi para analisar dados 👨🏻‍💻 
+## Sou analista de dados com foco em extração e visualização de insights utilizando Excel, SQl e Power BI.
 <br><br/>
 
 ## Ferramentas e Tecnologias:
