@@ -5,10 +5,10 @@
 
 ## Ferramentas e Tecnologias:
 
-<img width="96" height="96" src="https://img.icons8.com/fluency/96/microsoft-excel-2025.png" alt="microsoft-excel-2025"/>                                                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />                                                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<br><br/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/96/microsoft-excel-2025.png" alt="microsoft-excel-2025"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3e3551e4-e970-4577-a8fc-7efa2e0e2c03" />
+
 
 ## Contatos:
 
