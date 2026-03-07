@@ -16,9 +16,3 @@
 <a href="https://www.linkedin.com/in/giancarlo-lencioni-de-castro" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>  
 </div>
 <br><br/>
-
-<div>
-<a href="https://github.com/giancarlolencioni">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giancarlolencioni&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=giancarlolencioni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
