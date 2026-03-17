@@ -1,6 +1,6 @@
 # Olá, me chamo Giancarlo Lencioni de Castro.
 
-## Sou analista de dados com foco em extração e visualização de insights utilizando Excel, SQl e Power BI.
+## Sou analista de dados com foco em extração e visualização de insights utilizando Excel, SQl, Power BI e Python.
 <br><br/>
 
 ## Ferramentas e Tecnologias:
